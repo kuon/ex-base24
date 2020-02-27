@@ -1,4 +1,4 @@
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/kuon/ex-base24/Elixir CI)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/kuon/ex-base24/Elixir%20CI)
 ![Hex.pm](https://img.shields.io/hexpm/v/base24)
 ![License Hex.pm](https://img.shields.io/hexpm/l/base24)
 
