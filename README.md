@@ -4,8 +4,9 @@
 
 # Base24
 
-An encoder/decoder for base24 binary-to-text encoding
-[Base24 encoding](https://www.kuon.ch/post/2020-02-27-base24/) for Elixir.
+An encoder/decoder for
+[base24 binary-to-text encoding](https://www.kuon.ch/post/2020-02-27-base24/)
+for Elixir.
 
 ## Installation
 
