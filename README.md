@@ -1,3 +1,7 @@
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/kuon/ex-base24/Elixir CI)
+![Hex.pm](https://img.shields.io/hexpm/v/base24)
+![License Hex.pm](https://img.shields.io/hexpm/l/base24)
+
 # Base24
 
 An encoder/decoder for base24 binary-to-text encoding
