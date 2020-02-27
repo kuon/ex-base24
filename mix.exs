@@ -26,7 +26,7 @@ defmodule Base24.MixProject do
 
 
   defp description() do
-    "A encoder/decoder for base24 binary-to-text encoding"
+    "An encoder/decoder for base24 binary-to-text encoding"
   end
 
   defp package() do
