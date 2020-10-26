@@ -1,3 +1,36 @@
+
+# THIS REPOSITORY HAS MOVED
+
+New URL: https://git.goyman.com/kuon/ex-base24
+
+Why I moved everything out of GitHub:
+
+https://github.com/kuon/WhyILeftGithub/blob/main/README.md
+
+----
+
+
+# THIS REPOSITORY HAS MOVED
+
+New URL: https://git.goyman.com/kuon/ex-base24
+
+Why I moved everything out of GitHub:
+
+https://github.com/kuon/WhyILeftGithub/blob/main/README.md
+
+----
+
+
+# THIS REPOSITORY HAS MOVED
+
+New URL: https://git.goyman.com/kuon/ex-base24
+
+Why I moved everything out of GitHub:
+
+https://github.com/kuon/WhyILeftGithub/blob/main/README.md
+
+----
+
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/kuon/ex-base24/Elixir%20CI)
 ![Hex.pm](https://img.shields.io/hexpm/v/base24)
 ![License Hex.pm](https://img.shields.io/hexpm/l/base24)
