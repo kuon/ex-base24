@@ -4,14 +4,14 @@ defmodule Base24.MixProject do
   def project do
     [
       app: :base24,
-      version: "0.1.0",
+      version: "0.1.1",
       elixir: "~> 1.10",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
       description: description(),
       package: package(),
       name: "Base24",
-      source_url: "https://github.com/kuon/ex-base24"
+      source_url: "https://git.goyman.com/kuon/ex-base24"
     ]
   end
 
