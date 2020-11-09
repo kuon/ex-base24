@@ -18,8 +18,7 @@ test:
 
 .PHONY: clean
 clean:
-	rm -fr _build
-
+	rm -fr _build deps
 
 .PHONY: publish
 publish:
