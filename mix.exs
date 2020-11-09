@@ -33,7 +33,7 @@ defmodule Base24.MixProject do
   defp package() do
     [
       licenses: ["Apache-2.0", "MIT"],
-      links: %{"GitHub" => "https://github.com/kuon/ex-base24"}
+      links: %{"Git" => "https://git.goyman.com/kuon/ex-base24"}
     ]
   end
 end
