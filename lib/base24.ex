@@ -1,5 +1,5 @@
 defmodule Base24 do
-  use Bitwise
+  import Bitwise
 
   @moduledoc """
   Base24 encoder and decoder.

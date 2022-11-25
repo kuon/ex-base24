@@ -4,7 +4,7 @@ defmodule Base24.MixProject do
   def project do
     [
       app: :base24,
-      version: "0.1.2",
+      version: "0.1.3",
       elixir: "~> 1.10",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
